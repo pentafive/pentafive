@@ -4,7 +4,7 @@
 
 20+ years in telecom/network infrastructure.
 
-> Most people unwind with Netflix. I unwind with a soldering iron. 🔧
+> [Most people unwind with Netflix. I unwind with a soldering iron.](https://www.linkedin.com/posts/jonathandown_hamradio-iot-solutionsarchitecture-activity-7381023272659963904-jF2Z) 🔧
 
 ## 🛠️ What I Build
 
