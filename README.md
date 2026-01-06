@@ -2,7 +2,12 @@
 
 **🏗️ Principal Solutions Architect | 🏠 Home Automation Builder | 🤖 AI Infrastructure**
 
-20+ years in telecom/network infrastructure.
+20+ years in telecom/network infrastructure taught me: you can't fix what you can't measure.
+
+## 📝 Latest
+
+- [Replacing ISP hardware with open XGS-PON](https://www.linkedin.com/posts/jonathandown_xgspon-ftth-homeassistant-activity-7410385525775466496-3vev) - Building 8311-ha-bridge to expose fiber diagnostics
+- [You can't fix what you can't measure](https://www.linkedin.com/posts/jonathandown_xgspon-ftth-fiber-activity-7414358394678992896-ioiO) - Finding a 160°F overheating ONU with custom monitoring
 
 > [Most people unwind with Netflix. I unwind with a soldering iron.](https://www.linkedin.com/posts/jonathandown_hamradio-iot-solutionsarchitecture-activity-7381023272659963904-jF2Z) 🔧
 
