@@ -11,6 +11,7 @@
 ### 🏠 Home Assistant Integrations
 - [8311-ha-bridge](https://github.com/pentafive/8311-ha-bridge) - 🌐 XGS-PON fiber ONU monitoring for Home Assistant
 - [pskr-ha-bridge](https://github.com/pentafive/pskr-ha-bridge) - 📻 PSK Reporter ham radio -> Home Assistant bridge
+- [web888-ha-bridge](https://github.com/pentafive/web888-ha-bridge) - 📻 Web-888 SDR receiver monitoring for Home Assistant
 - [metermon-ha](https://github.com/pentafive/metermon-ha) - ⚡ RTL-SDR utility meter monitoring
 
 ### 🤖 MCP Servers (Model Context Protocol for AI Assistants)
