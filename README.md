@@ -24,7 +24,6 @@ I build open source integrations that surface hidden data and turn it into somet
 - [your_spotify](https://github.com/pentafive/your_spotify) - 📊 Self-hosted Spotify tracking dashboard (data source for MCP server)
 
 ### 🧠 AI & Infrastructure
-- [proxmox-clawdbot](https://github.com/pentafive/proxmox-clawdbot) - 🖥️ Proxmox VE helper scripts for AI assistants
 - Self-hosted LLM routing, AI-assisted development workflows
 
 ## 📝 Latest
